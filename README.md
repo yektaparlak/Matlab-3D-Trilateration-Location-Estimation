@@ -57,6 +57,7 @@ As shown in Figure 7, a simulated environment has been made using MATLAB & Simul
 
 <img width="539" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/3510c10b-4529-452f-a030-d3935db0449c">
 
+
 From these initial calculations, it is possible to derive the precise 3D coordinates by employing Cramer's rule, as detailed in the equations provided in Appendix B. By applying this method, the resulting (X1, Y1, Z1) coordinates in the global reference frame of the human can be accurately determined. For a more comprehensive comprehension of the implementation process, the corresponding code can be referred to in Appendix D, which offers a step-by-step breakdown of the methodology utilized. This code serves as a valuable resource for those seeking to delve deeper into the intricacies of the calculations involved and gain a thorough understanding of the underlying principles at work.
 
 In these simulations, a human has been defined with coordinates of (-5.1, 10.9, -3). By running the simulation and observing the scope, these results can be found for the calculated coordinates in Figure 8 as follows.
@@ -65,7 +66,8 @@ In these simulations, a human has been defined with coordinates of (-5.1, 10.9, 
 
 Furthermore, a Scatter Plot has been made using MATLAB to simulate the environment can be observed below (code found in Appendix E). From what can be seen in Figures 8 and 9, the calculated coordinates are not 100% accurate to the actual ones. However, the highest offset is found to be less than 1 meter, which is acceptable in real-life application, as it is relative to the human body size. 
 
-<img width="372" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/879840f9-0e63-4d27-8a82-61afec960eac">
+
+<img width="372" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/413c9689-8d3c-46a1-a783-32bda4d8cfc3">
 
 # Project Timeline Table
 <img width="570" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/bc0dc80c-e0cb-4f96-8ea4-ddac5b83e155">
