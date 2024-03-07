@@ -59,15 +59,14 @@ Furthermore, a Scatter Plot has been made using MATLAB to simulate the environme
 
 This indicates that the Arduino simulation successfully completed, as the calculated locations match the measured locations consistently with a slight tolerance due to the trilateration algorithm accuracy. The simulation accurately estimated the real location of the survivor throughout the experiment with the help of the 3D trilateration calculation, the fourth sensor is needed for the extra unknown z-component measurement. Therefore, based on the provided data, we can conclude that the Arduino simulation was successful in estimating the survivor's real location.
 
+## Representation of Product/System Architecture
+<img width="646" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/4eae91d0-9b38-4422-b91a-24bc1398fef8">
+
 ## Fishbone Root Cause Analysis Diagram
 <img width="646" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/3443619e-54a9-4b65-bf2d-a3f9b11d2e37">
 
 ## Use-Case Diagram for the Project Design 
 <img width="446" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/0f65b7c4-3283-4f58-883b-97ecda98a1f1">
-
-## Representation of Product/System Architecture
-<img width="646" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/4eae91d0-9b38-4422-b91a-24bc1398fef8">
-
 
 # Project Timeline Table
 <img width="570" alt="image" src="https://github.com/yektaparlak/Matlab-3D-Trilateration-Location-Estimation-Calculation-Technique/assets/111290340/bc0dc80c-e0cb-4f96-8ea4-ddac5b83e155">
